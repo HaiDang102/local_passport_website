@@ -10,7 +10,7 @@ A website using Passport.js Local Strategy + MongoDB + EJS templates.
 node app.js
 ```
 Server runs at: `http://localhost:3000`
-![alt text](<public/img/4 Before Login .jpg>)
+
 
 ### **b. Register**
 - URL: `http://localhost:3000/register`
@@ -21,6 +21,7 @@ Server runs at: `http://localhost:3000`
 ### **c. Login**
 - URL: `http://localhost:3000/login`
 - Enter credentials → if correct → redirect to profile.
+![alt text](<public/img/4 Before Login .jpg>)
 
 ### **d. Profile**
 - URL: `http://localhost:3000/profile`
@@ -34,7 +35,8 @@ Server runs at: `http://localhost:3000`
 
 ### **e. Logout**
 - Click Logout link → session destroyed → redirected to login.
-
+sau khi logout quay lai login 
+![alt text](<public/img/4 Before Login .jpg>)
 ---
 
 ## **Notes (common for all labs)**
